@@ -1,0 +1,7 @@
+div#caja {
+    position: relative;
+    margin-left: 45%;
+}
+div#caja form h2 {
+    color: rgb(255, 255, 255);
+}
